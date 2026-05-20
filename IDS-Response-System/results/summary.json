@@ -1,0 +1,16 @@
+{
+  "total_samples": 3000,
+  "total_attacks": 2700,
+  "attack_distribution": {
+    "Analysis": 300,
+    "Backdoor": 300,
+    "DoS": 300,
+    "Exploits": 300,
+    "Fuzzers": 300,
+    "Worms": 300,
+    "Reconnaissance": 300,
+    "Generic": 300,
+    "Shellcode": 300
+  },
+  "timestamp": "2026-03-16T21:35:18.433305"
+}

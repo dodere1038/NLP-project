@@ -1,0 +1,9 @@
+{
+  "Backdoor": 4,
+  "DoS": 2,
+  "Worms": 3,
+  "Shellcode": 1,
+  "Analysis": 1,
+  "Exploits": 2,
+  "Generic": 1
+}

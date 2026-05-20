@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-01-12T10:54:20.685198",
+  "test_samples": 90,
+  "true_attacks": 27,
+  "detected_attacks": 21,
+  "accuracy": 0.8666666666666667,
+  "model_type": "RandomForest",
+  "sample_responses": []
+}

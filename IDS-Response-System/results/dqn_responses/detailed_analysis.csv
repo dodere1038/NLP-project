@@ -1,0 +1,65 @@
+attack_type,severity,algorithm,dqn_action,timestamp
+Reconnaissance,2,Reconnaissance_Counter,Scan for Vulnerabilities,2026-01-22T18:32:51.222752
+DoS,5,DDoS_Mitigation_v2,Update Definitions,2026-01-22T18:32:51.222752
+Fuzzers,3,Fuzzing_Protection,Rate Limit (80%),2026-01-22T18:32:51.222752
+Generic,3,Generic_Response,Update Definitions,2026-01-22T18:32:51.222752
+Analysis,2,Analysis_Counter,Deploy Honeypot,2026-01-22T18:32:51.222752
+Backdoor,5,Backdoor_Eradication,Block IP (24 hours),2026-01-22T18:32:51.222752
+Analysis,2,Analysis_Counter,Deploy Honeypot,2026-01-22T18:32:51.222752
+Analysis,2,Analysis_Counter,Scan for Vulnerabilities,2026-01-22T18:32:51.222752
+Generic,3,Generic_Response,Deploy Honeypot,2026-01-22T18:32:51.222752
+Generic,3,Generic_Response,Rate Limit (80%),2026-01-22T18:32:51.222752
+Generic,3,Generic_Response,Block IP (Permanent),2026-01-22T18:32:51.222752
+Exploits,4,Exploit_Mitigation,Rate Limit (50%),2026-01-22T18:32:51.222752
+Backdoor,5,Backdoor_Eradication,Block IP (1 hour),2026-01-22T18:32:51.222752
+Generic,3,Generic_Response,Block IP (24 hours),2026-01-22T18:32:51.222752
+DoS,5,DDoS_Mitigation_v2,Quarantine File,2026-01-22T18:32:51.222752
+Backdoor,5,Backdoor_Eradication,Enable DDoS Protection,2026-01-22T18:32:51.222752
+Analysis,2,Analysis_Counter,Block IP (1 hour),2026-01-22T18:32:51.222752
+Exploits,4,Exploit_Mitigation,Update Definitions,2026-01-22T18:32:51.222752
+Exploits,4,Exploit_Mitigation,Deploy Honeypot,2026-01-22T18:32:51.222752
+Fuzzers,3,Fuzzing_Protection,Enable DDoS Protection,2026-01-22T18:32:51.222752
+Analysis,2,Analysis_Counter,Deploy Honeypot,2026-01-22T18:32:51.222752
+Worms,5,Worm_Containment,Isolate System,2026-01-22T18:32:51.222752
+Exploits,4,Exploit_Mitigation,Scan for Vulnerabilities,2026-01-22T18:32:51.222752
+Generic,3,Generic_Response,Isolate System,2026-01-22T18:32:51.222752
+Analysis,2,Analysis_Counter,Throttle Bandwidth,2026-01-22T18:32:51.222752
+Backdoor,5,Backdoor_Eradication,Alert Security Team,2026-01-22T18:32:51.222752
+Worms,5,Worm_Containment,Enable DDoS Protection,2026-01-22T18:32:51.222752
+Generic,3,Generic_Response,Block IP (Permanent),2026-01-22T18:32:51.222752
+Reconnaissance,2,Reconnaissance_Counter,Update Definitions,2026-01-22T18:32:51.222752
+DoS,5,DDoS_Mitigation_v2,Isolate System,2026-01-22T18:32:51.222752
+Analysis,2,Analysis_Counter,Rate Limit (50%),2026-01-22T18:32:51.222752
+Exploits,4,Exploit_Mitigation,Scan for Vulnerabilities,2026-01-22T18:32:51.222752
+Shellcode,4,Shellcode_Block,Quarantine File,2026-01-22T18:32:51.222752
+Fuzzers,3,Fuzzing_Protection,Block IP (1 hour),2026-01-22T18:32:51.222752
+DoS,5,DDoS_Mitigation_v2,Throttle Bandwidth,2026-01-22T18:32:51.222752
+Shellcode,4,Shellcode_Block,Enable DDoS Protection,2026-01-22T18:32:51.222752
+DoS,5,DDoS_Mitigation_v2,Isolate System,2026-01-22T18:32:51.222752
+Worms,5,Worm_Containment,Throttle Bandwidth,2026-01-22T18:32:51.222752
+Analysis,2,Analysis_Counter,Log & Monitor,2026-01-22T18:32:51.222752
+Analysis,2,Analysis_Counter,Log & Monitor,2026-01-22T18:32:51.222752
+Fuzzers,3,Fuzzing_Protection,Log & Monitor,2026-01-22T18:32:51.222752
+Exploits,4,Exploit_Mitigation,Quarantine File,2026-01-22T18:32:51.222752
+Exploits,4,Exploit_Mitigation,Update Definitions,2026-01-22T18:32:51.222752
+Backdoor,5,Backdoor_Eradication,Enable DDoS Protection,2026-01-22T18:32:51.222752
+Reconnaissance,2,Reconnaissance_Counter,Update Definitions,2026-01-22T18:32:51.222752
+Exploits,4,Exploit_Mitigation,Update Definitions,2026-01-22T18:32:51.222752
+Exploits,4,Exploit_Mitigation,Isolate System,2026-01-22T18:32:51.222752
+Worms,5,Worm_Containment,Throttle Bandwidth,2026-01-22T18:32:51.222752
+DoS,5,DDoS_Mitigation_v2,Log & Monitor,2026-01-22T18:32:51.222752
+Analysis,2,Analysis_Counter,Block IP (24 hours),2026-01-22T18:32:51.222752
+Backdoor,5,Backdoor_Eradication,Update Definitions,2026-01-22T18:32:51.222752
+Exploits,4,Exploit_Mitigation,Quarantine File,2026-01-22T18:32:51.222752
+Fuzzers,3,Fuzzing_Protection,Alert Security Team,2026-01-22T18:32:51.231175
+Exploits,4,Exploit_Mitigation,Rate Limit (80%),2026-01-22T18:32:51.231175
+DoS,5,DDoS_Mitigation_v2,Alert Security Team,2026-01-22T18:32:51.231175
+Fuzzers,3,Fuzzing_Protection,Scan for Vulnerabilities,2026-01-22T18:32:51.343699
+Generic,3,Generic_Response,Rate Limit (80%),2026-01-22T18:32:51.358700
+Exploits,4,Exploit_Mitigation,Scan for Vulnerabilities,2026-01-22T18:32:51.359706
+Exploits,4,Exploit_Mitigation,Alert Security Team,2026-01-22T18:32:51.359706
+Fuzzers,3,Fuzzing_Protection,Alert Security Team,2026-01-22T18:32:51.375647
+Backdoor,5,Backdoor_Eradication,Block IP (24 hours),2026-01-22T18:32:51.381003
+Worms,5,Worm_Containment,Scan for Vulnerabilities,2026-01-22T18:32:51.387252
+Shellcode,4,Shellcode_Block,Log & Monitor,2026-01-22T18:32:51.393284
+DoS,5,DDoS_Mitigation_v2,Rate Limit (80%),2026-01-22T18:32:51.393284

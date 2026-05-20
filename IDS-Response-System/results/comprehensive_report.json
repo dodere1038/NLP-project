@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-01-21T19:50:23.388692",
+  "system": "IDS with All 9 Attack Types (SVM)",
+  "detection_summary": {
+    "total_attack_types": 9,
+    "detected_attack_types": 9,
+    "detection_rate": 100.0,
+    "total_samples": 400,
+    "detected_attacks": 376,
+    "normal_traffic": 24
+  },
+  "attack_detection_details": {
+    "Analysis": {
+      "detected": true,
+      "sample_index": 6,
+      "detected_as": "Analysis",
+      "rl_action": "None"
+    },
+    "Backdoor": {
+      "detected": true,
+      "sample_index": 20,
+      "detected_as": "Backdoor",
+      "rl_action": "None"
+    },
+    "DoS": {
+      "detected": true,
+      "sample_index": 1,
+      "detected_as": "DoS",
+      "rl_action": "None"
+    },
+    "Exploits": {
+      "detected": true,
+      "sample_index": 16,
+      "detected_as": "Exploits",
+      "rl_action": "None"
+    },
+    "Fuzzers": {
+      "detected": true,
+      "sample_index": 0,
+      "detected_as": "Fuzzers",
+      "rl_action": "None"
+    },
+    "Generic": {
+      "detected": true,
+      "sample_index": 3,
+      "detected_as": "Generic",
+      "rl_action": "None"
+    },
+    "Reconnaissance": {
+      "detected": true,
+      "sample_index": 5,
+      "detected_as": "Reconnaissance",
+      "rl_action": "None"
+    },
+    "Shellcode": {
+      "detected": true,
+      "sample_index": 2,
+      "detected_as": "Shellcode",
+      "rl_action": "None"
+    },
+    "Worms": {
+      "detected": true,
+      "sample_index": 14,
+      "detected_as": "Worms",
+      "rl_action": "None"
+    }
+  },
+  "rl_agent_info": {
+    "learning_rate": 0.1,
+    "exploration_rate": 0.3,
+    "states_with_q_values": 9
+  },
+  "test_data_composition": {
+    "Normal": 40,
+    "Analysis": 40,
+    "Backdoor": 39,
+    "DoS": 40,
+    "Exploits": 41,
+    "Fuzzers": 40,
+    "Generic": 40,
+    "Reconnaissance": 40,
+    "Shellcode": 40,
+    "Worms": 40
+  }
+}
